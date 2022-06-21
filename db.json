@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Women Running Shoes Nike",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/b66a7ebf-8825-4c52-9d25-2340ac9177be/flex-experience-run-11-next-nature-road-running-shoes-Wvpjwg.png",
+      "price": 999
+    },
+    {
+      "id": 2,
+      "name": "Nike White Shoes",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://s3.amazonaws.com/nikeinc/assets/77617/Nyjah_Shoe_Profile_square_1600.jpg",
+      "price": 999
+    },
+    {
+      "id": 3,
+      "name": "Nike Gray Shoes",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/b66a7ebf-8825-4c52-9d25-2340ac9177be/flex-experience-run-11-next-nature-road-running-shoes-Wvpjwg.png",
+      "price": 999
+    },
+    {
+      "id": 4,
+      "name": "Nike Green Shoes",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/b66a7ebf-8825-4c52-9d25-2340ac9177be/flex-experience-run-11-next-nature-road-running-shoes-Wvpjwg.png",
+      "price": 999
+    },
+    {
+      "id": 5,
+      "name": "Men's Running Shoes",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fa49236e-bc0b-4194-996c-5148086aa5cf/air-zoom-pegasus-39-road-running-shoes-kmZSD6.png",
+      "price": 999
+    },
+    {
+      "id": 6,
+      "name": "Nike Air Zoom Pegasus",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/b66a7ebf-8825-4c52-9d25-2340ac9177be/flex-experience-run-11-next-nature-road-running-shoes-Wvpjwg.png",
+      "price": 999
+    }
+  ],
+  "wishlist": [],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Women Running Shoes Nike",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/b66a7ebf-8825-4c52-9d25-2340ac9177be/flex-experience-run-11-next-nature-road-running-shoes-Wvpjwg.png",
+        "price": 999
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Nike White Shoes",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl": "https://s3.amazonaws.com/nikeinc/assets/77617/Nyjah_Shoe_Profile_square_1600.jpg",
+        "price": 999
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Nike Green Shoes",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/b66a7ebf-8825-4c52-9d25-2340ac9177be/flex-experience-run-11-next-nature-road-running-shoes-Wvpjwg.png",
+        "price": 999
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Nike Air Zoom Pegasus",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/b66a7ebf-8825-4c52-9d25-2340ac9177be/flex-experience-run-11-next-nature-road-running-shoes-Wvpjwg.png",
+        "price": 999
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Men's Running Shoes",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fa49236e-bc0b-4194-996c-5148086aa5cf/air-zoom-pegasus-39-road-running-shoes-kmZSD6.png",
+        "price": 999
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Nike White Shoes",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl": "https://s3.amazonaws.com/nikeinc/assets/77617/Nyjah_Shoe_Profile_square_1600.jpg",
+        "price": 999
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Nike Air Zoom Pegasus",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/b66a7ebf-8825-4c52-9d25-2340ac9177be/flex-experience-run-11-next-nature-road-running-shoes-Wvpjwg.png",
+        "price": 999
+      },
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
